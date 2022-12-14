@@ -3,7 +3,7 @@
     "list" : [
         {
             "id" : "survey1217",
-            "banner_img" : "https://github.com/adbcsdk/som_banner/raw/master/img/survey1217.jpg",
+            "banner_img" : "https://github.com/adbcsdk/som_banner/raw/master/img/survey_1217.jpg",
             "landing_url" : "",
             "sdate" : 20221217,
             "edate" : 20221225
