@@ -11,7 +11,7 @@
         {
             "id" : "phantom1226",
             "banner_img" : "https://github.com/adbcsdk/som_banner/raw/main/img/phantom_1226.jpg",
-            "landing_url" : "https://static.adbc.io/comment/index.html?category=som&username=%s&userid=%s&from=%s",
+            "landing_url" : "https://static.adbc.io/qcomment/ghost/index.html?category=gst&username=%s&userid=%s&from=%s",
             "sdate" : 20221226,
             "edate" : 20230108
         }
