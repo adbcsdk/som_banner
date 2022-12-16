@@ -2,13 +2,6 @@
     "isOn" : true,
     "list" : [
 	{
-            "id" : "test1216",
-            "banner_img" : "https://github.com/adbcsdk/som_banner/raw/main/img/phantom_1226.jpg",
-            "landing_url" : "https://docs.google.com/forms/d/e/1FAIpQLSe98aehz6G6POu0c3M5HB-NFXuBXrRm1ieOytp5GK9TQM_sYw/viewform",
-            "sdate" : 20221216,
-            "edate" : 20221216
-        },
-        {
             "id" : "survey1217",
             "banner_img" : "https://github.com/adbcsdk/som_banner/raw/main/img/survey_1217.jpg",
             "landing_url" : "https://docs.google.com/forms/d/e/1FAIpQLSe98aehz6G6POu0c3M5HB-NFXuBXrRm1ieOytp5GK9TQM_sYw/viewform",
