@@ -1,4 +1,12 @@
 {
     "isOn" : true,
-    "list" : []
+    "list" : [
+        {
+            "id" : "convert0325",
+            "banner_img" : "https://github.com/adbcsdk/som_banner/raw/main/img/kakao_error_240325.png",
+            "landing_url" : "",
+            "sdate" : 20240325,
+            "edate" : 20240421
+        }
+    ]
 }
