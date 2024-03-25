@@ -1,12 +1,4 @@
 {
     "isOn" : true,
-    "list" : [
-        {
-            "id" : "count0201",
-            "banner_img" : "https://github.com/adbcsdk/som_banner/raw/main/img/count_0201.png",
-            "landing_url" : "https://static.adbc.io/qcomment/count/index.html?category=cnt&username=%s&userid=%s&from=%s",
-            "sdate" : 20230201,
-            "edate" : 20230208
-        }
-    ]
+    "list" : []
 }
