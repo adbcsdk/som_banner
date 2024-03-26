@@ -1,1 +1,1 @@
-{"isOn": true,"list": [{"id": "count0201","banner_img": "https://github.com/adbcsdk/som_banner/raw/main/img/count_0201.png","landing_url": "https://static.adbc.io/qcomment/count/index.html?category=cnt&username=%@&userid=%@&from=%@","sdate": 20230201,"edate": 20230208}]}
+{"isOn": true,"list": [{"id": "convert0325","banner_img": "https://github.com/adbcsdk/som_banner/raw/main/img/kakao_error_240325.png","landing_url": "","sdate": 20240327,"edate": 20240421}]}
