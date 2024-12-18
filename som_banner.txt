@@ -12,8 +12,8 @@
             "id" : "update1218",
             "banner_img" : "https://github.com/adbcsdk/som_banner/raw/main/img/update_241218.png",
             "landing_url" : "",
-            "sdate" : 20501218,
-            "edate" : 20510118
+            "sdate" : 20000101,
+            "edate" : 20001228
         }
     ]
 }
