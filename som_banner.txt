@@ -17,14 +17,14 @@
         },
         {
             "id" : "test1",
-            "banner_img" : "https://github.com/adbcsdk/som_banner/raw/main/img/update_241218.png",
+            "banner_img" : "https://github.com/adbcsdk/som_banner/raw/main/img/update_241218_2.png",
             "landing_url" : "https://www.naver.com",
             "sdate" : 20000101,
             "edate" : 20001228
         },
         {
             "id" : "test2",
-            "banner_img" : "https://github.com/adbcsdk/som_banner/raw/main/img/update_241218.png",
+            "banner_img" : "https://github.com/adbcsdk/som_banner/raw/main/img/update_241218_2.png",
             "landing_url" : "https://www.google.com/search?q=qcomment",
             "sdate" : 20000101,
             "edate" : 20001228
