@@ -10,7 +10,7 @@
         },
         {
             "id" : "update1218",
-            "banner_img" : "https://github.com/adbcsdk/som_banner/raw/main/img/update_241218.png",
+            "banner_img" : "https://github.com/adbcsdk/som_banner/raw/main/img/update_241218_2.png",
             "landing_url" : "",
             "sdate" : 20241218,
             "edate" : 20250131
