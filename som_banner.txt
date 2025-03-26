@@ -16,6 +16,13 @@
             "edate" : 20250119
         },
         {
+            "id" : "cashbutton0331",
+            "banner_img" : "https://github.com/adbcsdk/som_banner/raw/main/img/cash_button_250331.png",
+            "landing_url" : "",
+            "sdate" : 20250331,
+            "edate" : 20250414
+        },
+        {
             "id" : "test1",
             "banner_img" : "https://github.com/adbcsdk/som_banner/raw/main/img/update_241218_2.png",
             "landing_url" : "https://www.naver.com",
