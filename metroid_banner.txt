@@ -1,0 +1,19 @@
+{
+    "isOn" : true,
+    "list" : [
+        {
+            "id" : "pointhome0331",
+            "banner_img" : "https://github.com/adbcsdk/som_banner/raw/main/img/point_home_250331.png",
+            "landing_url" : "",
+            "sdate" : 20250331,
+            "edate" : 20250414
+        },
+        {
+            "id" : "test1",
+            "banner_img" : "https://github.com/adbcsdk/som_banner/raw/main/img/update_241218_2.png",
+            "landing_url" : "https://www.naver.com",
+            "sdate" : 20250326,
+            "edate" : 20250327
+        }
+    ]
+}
