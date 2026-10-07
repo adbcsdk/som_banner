@@ -3,7 +3,7 @@
     "list" : [
         {
             "id" : "pass1007",
-            "banner_img" : "https://github.com/adbcsdk/som_banner/raw/main/img/update_241218_2.png",
+            "banner_img" : "https://github.com/adbcsdk/som_banner/raw/main/img/notice_ko.jpeg",
             "landing_url" : "https://www.somcloud.com/user/login",
             "sdate" : 20261007,
             "edate" : 20261021
